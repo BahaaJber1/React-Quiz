@@ -2,6 +2,16 @@
 
 A comprehensive quiz application built with React, featuring context-based state management, a timer, scoring, and highscore tracking.
 
+<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/a378aa7f-f06d-466a-ac7d-06e57c85cdea" />
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/7bc3f93f-a2ee-4a88-b9b8-301091b84bfa" />
+
+<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/639f9000-40ce-4c53-88a3-3d6a8e7c3445" />
+
+<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/c4ff3135-8c04-405b-8fca-5be6bf4c55dc" />
+
+
+
 ## Features
 
 - Dynamic quiz questions loaded from a local server
@@ -32,7 +42,7 @@ A comprehensive quiz application built with React, featuring context-based state
 2. Navigate to the project directory:
 
    ```bash
-   cd 10 react-quiz
+   cd react-quiz
    ```
 
 3. Install dependencies:
